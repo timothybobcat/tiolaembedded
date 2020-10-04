@@ -1,4 +1,4 @@
-baseurl = "tiolaembedded.netlify.com"
+baseurl = "https://tiolaembedded.netlify.app"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
